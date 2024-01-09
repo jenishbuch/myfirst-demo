@@ -1,2 +1,3 @@
 # myfirst-demo
-this is my fisr repository
+This Is My First Repository
+Author - Jenish Buch
